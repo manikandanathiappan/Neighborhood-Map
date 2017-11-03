@@ -1,0 +1,86 @@
+html, body {
+	font-family: 'Slabo 27px', serif;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+	height: 100%;
+}
+
+#pano {
+	height: 200px;
+	width: 200px;
+}
+
+#header {
+	font-weight: bold;
+	font-style: italic;
+	color: red;
+}
+
+.article {
+	font-size: 0.7em;
+}
+
+a {
+	color: green;
+}
+
+.title {
+	text-align: center;
+	margin: 0;
+	color: white;
+}
+
+input {
+	width: 130px;
+	margin-left: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    border-radius: 10px;
+    padding: 10px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+.loc {
+	margin-left: 10px;
+	color: white;
+}
+
+.main {
+	background-color: #0c4152;
+	background-image: url('https://iconshow.me/media/images/Mixed/small-n-flat-icon/png2/256/-map-marker.png');
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+
+.location {
+	color: yellow;
+	cursor: pointer;
+	width: 100px;
+}
+
+@media only screen and (max-width: 550px) {
+	.main {
+		background-image: none;
+	}
+}
+
+.img {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	height: 50px;
+	width: 50px;
+}
+
+.quote {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	margin-top: 50px;
+	color: white;
+}
