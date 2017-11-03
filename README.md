@@ -14,7 +14,7 @@ Clicking a location in the list opens the Infowindow of the particular place.
 
 ## Getting Started
 
-You can get Neighborhood map project via [GITHUB Repository](https://github.com/manikandanathiappan/Neighborhood-Map).
+You can get Neighborhood map project via [GITHUB Repository](https://github.com/manikandanathiappan/Neighborhood-map).
 
 You can Fork the Neighborhood map project repository to your github account and _Clone it_ **or** simply _Download ZIP_ and extract it to your local drive.
 
@@ -28,4 +28,4 @@ Open it view the project.
 
 ## Live version
 
-Access the project directly [here]().
+Access the project directly [here](https://manikandanathiappan.github.io/Neighborhood-map/).
